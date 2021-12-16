@@ -105,7 +105,6 @@ panorama_AAB0DB72_A188_F11E_41D6_0259971941CB.label = 1
 ## Action
 
 ### URL
-LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/kacaoegatovet
-LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/kacaoegato/
-LinkBehaviour_53C857DE_5B3E_CB2D_41D2_2B5700618F3D.source = //www.youtube.com/embed/kCrHIM-LT1E
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/Ch%C3%A1cara-Manzano-100155039012931
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/chalemanzano/
 LinkBehaviour_53C867DE_5B3E_CB2D_41D4_519F9B0A0B43.source = https://api.whatsapp.com/send?phone=5511944929984
